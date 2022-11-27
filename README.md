@@ -1,2 +1,3 @@
-# Primeiro
-Exemplo de uso
+# Receitas :man_cook:
+
+Olá, bem vindo as minhas receitas.
